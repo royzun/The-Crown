@@ -128,12 +128,33 @@
             }
         }
 
-        .image-container {
-        display: inline-block;
-        position: relative;
-        width: 600px; /* Adjust the width as needed */
-        height: 400px; /* Adjust the height as needed */
-    }
+                image-container {
+            display: inline-block;
+            position: relative;
+            width: 100%; 
+            height: auto; /* Maintain aspect ratio */
+            max-width: 600px; /* Maximum width */
+            margin-top: 40px; /* Adjust the value as needed */
+        }
+
+        @media (max-width: 1200px) {
+            .image-container {
+                max-width: 500px; /* Adjust for medium screens */
+            }
+        }
+
+        @media (max-width: 768px) {
+            .image-container {
+                max-width: 400px; /* Adjust for small screens */
+            }
+        }
+
+        @media (max-width: 480px) {
+            .image-container {
+                max-width: 100%; /* Full width for very small screens */
+                margin-top: 20px; /* Adjust the value as needed */
+            }
+        }
 
         .image-container img {
         display: block;
@@ -157,10 +178,6 @@
         .byline {
          margin-top: 40px; /* Adjust the value as needed */
 }
-        .image-container {
-        margin-top: 40px; /* Adjust the value as needed */
-}
-
 
     #datawrapper-chart-Ca1MS {
         margin-top: 10x; /* Adjust the value as needed */
@@ -177,7 +194,7 @@
             <p class="subhead">European Countries That Became Republics More Recently Stream "The Crown" More Than Others, With Ukraine Leading by Far.</p>
             <div class="image-container">
                 <figure>
-                    <img src="images/crown.png" alt="Crown Image" width="600" height="400">
+                    <img src="images/crown.png" alt="Crown Image" width="100%" height="auto">
                     <figcaption class="caption">
                        The ending frame from the opening credits of "The Crown", <span>Netflix.</span>
                     </figcaption>
