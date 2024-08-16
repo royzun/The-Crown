@@ -1,10 +1,5 @@
-  ________            ______                       
- /_  __/ /_  ___     / ____/________ _      ______ 
-  / / / __ \/ _ \   / /   / ___/ __ \ | /| / / __ \
- / / / / / /  __/  / /___/ /  / /_/ / |/ |/ / / / /
-/_/ /_/ /_/\___/   \____/_/   \____/|__/|__/_/ /_/ 
-                                                   
-
+Why Eastern Europe Can't Get Enough of "The Crown"
+===========
 
 ## Description
 The project provides an in-depth analysis of the factors contributing to the popularity of "The Crown," including a detailed breakdown of its viewership across various regions. 
