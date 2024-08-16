@@ -1,5 +1,10 @@
 Why Eastern Europe Can't Get Enough of "The Crown"
+
 ===========
+
+
+![Crown Image](/images/crown.png) 
+
 
 ## Description
 The project provides an in-depth analysis of the factors contributing to the popularity of "The Crown," including a detailed breakdown of its viewership across various regions. 
