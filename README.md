@@ -4,10 +4,6 @@
 
 ===========
 
-
-![Crown Image](/images/crown.png) 
-
-
 ## Description
 The project provides an in-depth analysis of the factors contributing to the popularity of "The Crown," including a detailed breakdown of its viewership across various regions. 
 Insights derived from this analysis may help understand regional variations in the cultural impact of the series, potentially influencing future content production strategies.
@@ -16,3 +12,5 @@ Insights derived from this analysis may help understand regional variations in t
 The data was sourced from Netflix's publicly released viewership statistics, specifically their Top 10 lists. 
 These lists record the number of times "The Crown" appeared in top positions by region, as categorized by the United Nations Statistical Yearbook Annex. 
 
+
+![Crown Image](/images/crown.png) 
